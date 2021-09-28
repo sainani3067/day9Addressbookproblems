@@ -1,0 +1,16 @@
+C:\Users\SAI KUMAR\source\repos\UC_AddressBookproblems\bin\Debug\net5.0\UC_AddressBookproblems.exe
+C:\Users\SAI KUMAR\source\repos\UC_AddressBookproblems\bin\Debug\net5.0\UC_AddressBookproblems.deps.json
+C:\Users\SAI KUMAR\source\repos\UC_AddressBookproblems\bin\Debug\net5.0\UC_AddressBookproblems.runtimeconfig.json
+C:\Users\SAI KUMAR\source\repos\UC_AddressBookproblems\bin\Debug\net5.0\UC_AddressBookproblems.runtimeconfig.dev.json
+C:\Users\SAI KUMAR\source\repos\UC_AddressBookproblems\bin\Debug\net5.0\UC_AddressBookproblems.dll
+C:\Users\SAI KUMAR\source\repos\UC_AddressBookproblems\bin\Debug\net5.0\ref\UC_AddressBookproblems.dll
+C:\Users\SAI KUMAR\source\repos\UC_AddressBookproblems\bin\Debug\net5.0\UC_AddressBookproblems.pdb
+C:\Users\SAI KUMAR\source\repos\UC_AddressBookproblems\obj\Debug\net5.0\UC_AddressBookproblems.csproj.AssemblyReference.cache
+C:\Users\SAI KUMAR\source\repos\UC_AddressBookproblems\obj\Debug\net5.0\UC_AddressBookproblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAI KUMAR\source\repos\UC_AddressBookproblems\obj\Debug\net5.0\UC_AddressBookproblems.AssemblyInfoInputs.cache
+C:\Users\SAI KUMAR\source\repos\UC_AddressBookproblems\obj\Debug\net5.0\UC_AddressBookproblems.AssemblyInfo.cs
+C:\Users\SAI KUMAR\source\repos\UC_AddressBookproblems\obj\Debug\net5.0\UC_AddressBookproblems.csproj.CoreCompileInputs.cache
+C:\Users\SAI KUMAR\source\repos\UC_AddressBookproblems\obj\Debug\net5.0\UC_AddressBookproblems.dll
+C:\Users\SAI KUMAR\source\repos\UC_AddressBookproblems\obj\Debug\net5.0\ref\UC_AddressBookproblems.dll
+C:\Users\SAI KUMAR\source\repos\UC_AddressBookproblems\obj\Debug\net5.0\UC_AddressBookproblems.pdb
+C:\Users\SAI KUMAR\source\repos\UC_AddressBookproblems\obj\Debug\net5.0\UC_AddressBookproblems.genruntimeconfig.cache
